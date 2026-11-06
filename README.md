@@ -1,4 +1,3 @@
-# aula3-ia_para_dev
 
 # Aula 3 – IA para Dev
 **Curso:** Kodie
